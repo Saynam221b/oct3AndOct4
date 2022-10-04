@@ -4046,3 +4046,9 @@ Caused by: java.io.IOException: Could not rename file D:\repositary\oct3AndOct4\
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-04 09:07:51.661
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-04 09:08:25.874
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-10-04 09:08:25.887
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
